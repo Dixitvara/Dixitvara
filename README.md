@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, i am dixit vala, working as a software developer
+Hello, i am dixit vala, working as a mobile developer
 
 
 ## 🌐 Socials:
